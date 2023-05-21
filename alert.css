@@ -1,0 +1,11 @@
+* {
+    font-family: 'DePixel', sans-serif; 
+    height: 50rem;
+}
+
+#panel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
